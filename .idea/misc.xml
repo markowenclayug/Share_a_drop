@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SAD/ShareADrop/app/src/main/res/menu/activity_main_drawer.xml" value="0.371875" />
+        <entry key="..\:/SAD/ShareADrop/app/src/main/res/menu/navigation_drawer.xml" value="0.371875" />
+        <entry key="..\:/SAD/ShareADrop/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/drawable/map_search_bg.xml" value="0.3880208333333333" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/activity_dashboard.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/activity_forgot_password.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/activity_sign_up.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/app_bar_navigation_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/content_navigation_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/fragment_about_us.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/fragment_first.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/fragment_forum.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/fragment_home.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/fragment_map.xml" value="0.33" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/fragment_profile.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/fragment_report.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/fragment_second.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/fragment_settings.xml" value="0.33" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/fragment_stocks.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/google_map.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/google_map_fragment.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/nav_header.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/menu/activity_main_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Desktop/ShareADrop/app/src/main/res/menu/navigation_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Documents/SAD/ShareADrop/app/src/main/res/layout/activity_forgot_password.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Documents/SAD/ShareADrop/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Documents/SAD/ShareADrop/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Documents/SAD/ShareADrop/app/src/main/res/layout/activity_sign_up.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Documents/SAD/ShareADrop/app/src/main/res/layout/app_bar_navigation_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Documents/SAD/ShareADrop/app/src/main/res/layout/content_navigation_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Documents/SAD/ShareADrop/app/src/main/res/layout/fragment_about_us.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Documents/SAD/ShareADrop/app/src/main/res/layout/fragment_logout.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Documents/SAD/ShareADrop/app/src/main/res/layout/fragment_report.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Documents/SAD/ShareADrop/app/src/main/res/layout/fragment_settings.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Documents/SAD/ShareADrop/app/src/main/res/layout/fragment_stocks.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Documents/SAD/ShareADrop/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Documents/SAD/ShareADrop/app/src/main/res/menu/activity_main_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Documents/SAD/ShareADrop/app/src/main/res/menu/navigation_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/drawable/about.xml" value="0.3449074074074074" />
+        <entry key="..\:/Users/Jey/Downloads/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_cur_location.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/Jey/Downloads/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_dashboard.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/Jey/Downloads/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_forgot_password.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/Jey/Downloads/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_main.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/Jey/Downloads/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_receive.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/Jey/Downloads/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_sign_up.xml" value="0.24456521739130435" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/activity_forgot_password.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/activity_map.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/activity_sign_up.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/app_bar_navigation_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/content_map.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/content_navigation_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/fragment_about_us.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/fragment_forum.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/fragment_map.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/fragment_report.xml" value="0.33" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/fragment_settings.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/fragment_stocks.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/map.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/menu/activity_main_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/ShareADrop/app/src/main/res/menu/navigation_drawer.xml" value="0.371875" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_cur_location.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_dashboard.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_donate2.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_forgot_password.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_main.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_receive.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_sign_up.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_terms.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_about_us.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_forum.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_home.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_map.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_profile.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_report.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_settings.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_stocks.xml" value="0.29846014492753625" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/slide_layout.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/Updated (Nov 6)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/stocklistitem.xml" value="0.29347826086956524" />
+        <entry key="..\:/Users/Jey/Downloads/new(forum) - Copy/ShareADrop/app/src/main/res/layout/activity_cur_location.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/Jey/Downloads/new(forum) - Copy/ShareADrop/app/src/main/res/layout/fragment_map.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/Jey/Downloads/new(forum)/ShareADrop/app/src/main/res/layout/activity_forgot_password.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/Jey/Downloads/new(forum)/ShareADrop/app/src/main/res/layout/fragment_about_us.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/Jey/Downloads/new(forum)/ShareADrop/app/src/main/res/layout/fragment_forum.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/Jey/Downloads/new(forum)/ShareADrop/app/src/main/res/layout/fragment_map.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/Jey/Downloads/new(forum)/ShareADrop/app/src/main/res/layout/fragment_profile.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/Jey/Downloads/new(forum)/ShareADrop/app/src/main/res/layout/fragment_report.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/Jey/Downloads/new(forum)/ShareADrop/app/src/main/res/layout/fragment_stocks.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/Jey/Downloads/new(forum)/ShareADrop/app/src/main/res/layout/listitem.xml" value="0.33055555555555555" />
+        <entry key="..\:/Users/Jey/Downloads/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_profile.xml" value="0.27853260869565216" />
+        <entry key="..\:/Users/Jey/Downloads/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_stocks.xml" value="0.2884963768115942" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/Updated (NOV3)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_terms.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/Updated (NOV3)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_home.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/Updated (NOV3)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_stocks.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/Updated (NOV3)/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/stocklistitem.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/bago/ShareADrop/app/src/main/res/layout/activity_dashboard.xml" value="0.25092364532019706" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/bago/ShareADrop/app/src/main/res/layout/activity_forgot_password.xml" value="0.25092364532019706" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/bago/ShareADrop/app/src/main/res/layout/activity_sign_up.xml" value="0.25092364532019706" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/bago/ShareADrop/app/src/main/res/layout/fragment_about_us.xml" value="0.1730295566502463" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/bago/ShareADrop/app/src/main/res/layout/fragment_forum.xml" value="0.33" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/bago/ShareADrop/app/src/main/res/layout/fragment_home.xml" value="0.1730295566502463" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/bago/ShareADrop/app/src/main/res/layout/fragment_map.xml" value="0.25092364532019706" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/bago/ShareADrop/app/src/main/res/layout/fragment_profile.xml" value="0.1730295566502463" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/bago/ShareADrop/app/src/main/res/layout/fragment_report.xml" value="0.33" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/bago/ShareADrop/app/src/main/res/layout/fragment_settings.xml" value="0.25092364532019706" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/bago/ShareADrop/app/src/main/res/layout/fragment_stocks.xml" value="0.33" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/bago/ShareADrop/app/src/main/res/layout/listitem.xml" value="0.25092364532019706" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/bago/ShareADrop/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.25092364532019706" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/bago/ShareADrop/app/src/main/res/layout/slide_layout.xml" value="0.25092364532019706" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 1/FINAL MAPS/ShareADrop/app/src/main/res/drawable/stocks.xml" value="0.3402777777777778" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 1/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_dashboard.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 1/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_donate.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 1/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_sign_up.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 1/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_profile.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 1/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_settings.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 1/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_stocks.xml" value="0.29393115942028986" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 2/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_donate2.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 2/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_donate_send.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 2/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_receive.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 2/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_sign_up.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 2/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_terms.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 2/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_about_us.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 2/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_profile.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 2/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_settings.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 2/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_stocks.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 2/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/menu/activity_main_drawer.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 2/nov 2/FINAL MAPS/ShareADrop/app/src/main/res/menu/menu_main.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/drawable/notification.xml" value="0.3402777777777778" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_cur_location.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_dashboard.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_donate2.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_forgot_password.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_main.xml" value="0.30842391304347827" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_receive.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_sign_up.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_terms.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_video.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_about_us.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_forum.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_home.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_map.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_profile.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_report.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_settings.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_stocks.xml" value="0.25" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/listitem.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/slide_layout.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/stocklistitem.xml" value="0.302536231884058" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/video_view.xml" value="0.2558876811594203" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/menu/activity_main_drawer.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/AndroidStudioProjects/nov 8/Nov8/nov7 updated-20211108T143228Z-001/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/menu/menu_main.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/activity_cur_location.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/activity_dashboard.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/activity_donate2.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/activity_forgot_password.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/activity_main.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/activity_receive.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/activity_sign_up.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/fragment_about_us.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/fragment_forum.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/fragment_home.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/fragment_map.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/fragment_profile.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/fragment_report.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/fragment_settings.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/fragment_stocks.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/listitem.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/slide_layout.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/Nov22/nov 19/ShareADrop/app/src/main/res/layout/stocklistitem.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/activity_about_us2.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/activity_admin_reply.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/activity_cur_location.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/activity_donate2.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/activity_forum2.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/activity_get_level.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/activity_home2.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/activity_map2.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/activity_profile2.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/activity_report2.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/activity_sign_up.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/activity_stockadd.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/activity_stocks2.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/fragment_about_us.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/fragment_forum.xml" value="0.25679347826086957" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/fragment_home.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/fragment_map.xml" value="0.25679347826086957" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/fragment_profile.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/fragment_report.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/fragment_stocks.xml" value="0.25679347826086957" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/itemstock.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/listitem.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/nav_header_navigation_drawer.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/nav_header_navigation_drawer2.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/layout/reportlistitem.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/menu/activity_main_drawer.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/menu/activity_main_drawer2.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/menu/menu_main.xml" value="0.32592592592592595" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3402777777777778" />
+        <entry key="..\:/Users/Owen Layug/Desktop/dec1/ShareADrop/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3402777777777778" />
+        <entry key="..\:/Users/Owen Layug/Downloads/ShareADrop/app/src/main/res/drawable/bag.xml" value="0.3828125" />
+        <entry key="..\:/Users/Owen Layug/Downloads/ShareADrop/app/src/main/res/drawable/logout.xml" value="0.3828125" />
+        <entry key="..\:/Users/Owen Layug/Downloads/ShareADrop/app/src/main/res/layout/activity_forgot_password.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Owen Layug/Downloads/ShareADrop/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Owen Layug/Downloads/ShareADrop/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Owen Layug/Downloads/ShareADrop/app/src/main/res/layout/activity_sign_up.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Owen Layug/Downloads/ShareADrop/app/src/main/res/layout/app_bar_navigation_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Owen Layug/Downloads/ShareADrop/app/src/main/res/layout/content_navigation_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Owen Layug/Downloads/ShareADrop/app/src/main/res/layout/fragment_map.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Owen Layug/Downloads/ShareADrop/app/src/main/res/layout/fragment_settings.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Owen Layug/Downloads/ShareADrop/app/src/main/res/menu/activity_main_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Owen Layug/Downloads/ShareADrop/app/src/main/res/menu/navigation_drawer.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Owen Layug/Downloads/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_main.xml" value="0.31431159420289856" />
+        <entry key="..\:/Users/Owen Layug/Downloads/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/activity_terms.xml" value="0.31431159420289856" />
+        <entry key="..\:/Users/Owen Layug/Downloads/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_about_us.xml" value="0.31431159420289856" />
+        <entry key="..\:/Users/Owen Layug/Downloads/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/fragment_home.xml" value="0.31431159420289856" />
+        <entry key="..\:/Users/Owen Layug/Downloads/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/slide_layout.xml" value="0.31431159420289856" />
+        <entry key="..\:/Users/Owen Layug/Downloads/nov7 updated/FINAL MAPS/ShareADrop/app/src/main/res/layout/video_view.xml" value="0.31431159420289856" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

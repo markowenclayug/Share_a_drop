@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Share A Drop</string>
+    <string name="title_activity_navigation_drawer">NavigationDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="paraluman">uxWOTxYvorE</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_map">Map</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="BreastMilk">Here are some useful links: "https://www.who.int/health-topics/breastfeeding#tab=tab_1"</string>
+
+    <string-array name="place">
+        <item>Jose B. Lingad Memorial Regional Hospital</item>
+        <item>Ana Massage Home Service L. Sullera St Pandayan, 3020 Meycauayan, Bulacan</item>
+        <item>Luz Facial Care Marilao, Bulacan</item>
+        <item>Ayala MarQuee Mall</item>
+        <item>Sm City San Jose Del Monte</item>
+        <item>SM City Clark</item>
+        <item>SM City Pampanga</item>
+        <item>SM City San Fernando Downtown</item>
+        <item>SM City Telabastagan</item>
+        <item>SM City Tarlac</item>
+        <item>SM Center Pulilan</item>
+        <item>SM City Olongapo Central</item>
+        <item>SM City Cabanatuan</item>
+        <item>SM City Baliwag</item>
+    </string-array>
+</resources>

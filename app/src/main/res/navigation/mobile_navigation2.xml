@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home2">
+
+
+    <activity
+        android:id="@+id/adminReply"
+        android:name="com.example.shareadrop.AdminReply"
+        android:label="AdminReply"
+        tools:layout="@layout/activity_admin_reply"/>
+    <activity
+        android:id="@+id/nav_aboutUs2"
+        android:name="com.example.shareadrop.AboutUs2"
+        android:label="activity_about_us2"
+        tools:layout="@layout/activity_about_us2" />
+    <activity
+        android:id="@+id/nav_forum2"
+        android:name="com.example.shareadrop.Forum2"
+        android:label="activity_forum2"
+        tools:layout="@layout/activity_forum2" />
+    <activity
+        android:id="@+id/nav_home2"
+        android:name="com.example.shareadrop.Home2"
+        android:label="activity_home2"
+        tools:layout="@layout/activity_home2" />
+    <activity
+        android:id="@+id/nav_profile2"
+        android:name="com.example.shareadrop.Profile2"
+        android:label="activity_profile2"
+        tools:layout="@layout/activity_profile2" />
+    <activity
+        android:id="@+id/nav_map2"
+        android:name="com.example.shareadrop.Map2"
+        android:label="activity_map2"
+        tools:layout="@layout/activity_map2" />
+    <activity
+        android:id="@+id/nav_report2"
+        android:name="com.example.shareadrop.Report2"
+        android:label="activity_report2"
+        tools:layout="@layout/activity_report2" />
+    <activity
+        android:id="@+id/nav_stocks2"
+        android:name="com.example.shareadrop.Stocks2"
+        android:label="activity_stocks2"
+        tools:layout="@layout/activity_stocks2" />
+</navigation>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "993252873599",
+    "firebase_url": "https://share-a-drop-e6ef3-default-rtdb.firebaseio.com",
+    "project_id": "share-a-drop-e6ef3",
+    "storage_bucket": "share-a-drop-e6ef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993252873599:android:0708e5022684ae7f63764a",
+        "android_client_info": {
+          "package_name": "com.example.shareadrop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993252873599-13sf0c87sgdsot2se94ct3eq20g5j1tu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMODRrZtPqKW2WCR42FMf5eMXQvkL3_mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993252873599-13sf0c87sgdsot2se94ct3eq20g5j1tu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home2"
+            android:icon="@drawable/home"
+            android:title="Home2" />
+        <item
+            android:id="@+id/nav_profile2"
+            android:icon="@drawable/profile"
+            android:title="Profile2" />
+        <item
+            android:id="@+id/nav_forum2"
+            android:icon="@drawable/forum"
+            android:title="Forum2" />
+        <item
+            android:id="@+id/nav_map2"
+            android:icon="@drawable/map"
+            android:title="Map2" />
+        <item
+            android:id="@+id/nav_stocks2"
+            android:icon="@drawable/stocks"
+            android:title="Stocks2" />
+        <item
+            android:id="@+id/nav_report2"
+            android:icon="@drawable/report"
+            android:title="Report2" />
+        <item
+            android:id="@+id/nav_about_us2"
+            android:icon="@drawable/about"
+            android:title="About Us2" />
+        <item
+            android:id="@+id/nav_admin_reply"
+            android:icon="@drawable/about"
+            android:title="admin reply" />
+    </group>
+
+</menu>
